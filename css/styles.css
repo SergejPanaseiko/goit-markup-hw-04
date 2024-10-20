@@ -74,6 +74,9 @@ color: #404bbf;
      height: 4px;
      background-color: #404BBF;
      border-radius: 2px;
+     position: absolute;
+     left: 0;
+     bottom: -1px;
 }
 
 .header-menu-link:hover {
