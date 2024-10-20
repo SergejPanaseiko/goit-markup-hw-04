@@ -66,6 +66,7 @@ padding: 24px 0 24px;
 display: block;
 position: relative;
 color: #404bbf;
+transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-menu-item:first-child .header-menu-link::after{
      content: '';
@@ -92,12 +93,14 @@ color: #404bbf;
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: #434455;
-     font-style: normal;    
+     font-style: normal;
+     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-contact-link:hover {
 font-style: normal;
 color: #404bbf;
+
 }
 
 .header-contact-link:focus {
