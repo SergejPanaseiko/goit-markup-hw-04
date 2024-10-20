@@ -401,6 +401,7 @@ padding-bottom: 120px;
 .footer {
 background: #2e2f42;
 padding: 100px 0;
+display: flex;
 }
 
 .footer-box {
