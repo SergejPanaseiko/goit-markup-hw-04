@@ -338,6 +338,18 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
      align-items: center;
      justify-content: center;
 }
+.team-link-icon:hover, 
+.team-link-icon:focus{
+     background-color: #404bbf;
+
+}
+svg{
+     width: 16px;
+     height: 16px;
+}
+.team-item-icon{
+     fill: #f4f4fd;
+}
 .team-cover-text{
      position: absolute;
      background-color: #4d5ae5;
