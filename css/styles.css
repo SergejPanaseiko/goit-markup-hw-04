@@ -318,6 +318,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
      display: flex;
      align-items: center;
      justify-content: center;
+     padding: 32px 0;
 }
 .team-item-icon{
      display: inline-block;
@@ -326,6 +327,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
      background-color: #4d5ae5;
      fill: #fff;
      stroke: #fff;
+     padding: 32px 0;
 }
 .team-cover-text{
      position: absolute;
