@@ -290,7 +290,7 @@ flex-basis: calc((100% - 3 * 24px) / 4);
 background-color: #FFFFFF;
 border-radius: 0 0 4px 4px;
 margin-bottom: 10px;
-position: relative;
+/* position: relative; */
 box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
      0px 1px 1px rgba(46, 47, 66, 0.16),
      0px 2px 1px rgba(46, 47, 66, 0.08);
@@ -312,6 +312,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
 .team-item-box-icon{
      width: 40px;
      height: 40px; 
+
      /* border: 2px solid #4d5ae5;
      border-radius: 50%;
      background-color: #4d5ae5;
@@ -370,7 +371,9 @@ svg{
 }
 .team-cover-wrapper{
      position: relative;
-     overflow: hidden;     
+     overflow: hidden;
+     /* padding: 32px 0; */
+     /* background-color: #404bbf; */
 }
 .team-item:hover .team-cover-text{
      transform: translateY(0);
