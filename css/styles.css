@@ -298,7 +298,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
 .team-item-pict{
      padding: 32px 0;
 }
-.team-item-box{
+/* .team-item-box{
      width: 232px;
      height: 40px;
      display: flex;
@@ -308,7 +308,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
      gap: 24px;
      margin: 0 auto;
      
-}
+} */
 .team-item-box-icon{
      border: 2px solid #4d5ae5;
      border-radius: 50%;
