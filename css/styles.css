@@ -488,7 +488,7 @@ align-items: baseline;
      width: 208px;
      align-items: flex-start;
      flex-direction: column;
-     /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
+     
 }
 .footer-soc-text {
      font-weight: 500;
@@ -497,7 +497,7 @@ align-items: baseline;
      letter-spacing: 0.02em;
      color: #fff;
      margin-bottom: 16px;
-     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+     /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 .footer-soc-icon{
      display: flex;
