@@ -516,11 +516,11 @@ align-items: baseline;
      color: #4d5ae5;
      margin-bottom: 16px; 
      display: inline-block;
-     /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
+     
 }
 .footer-logo-blue {
 color: #f4f4fd;
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+/* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 .footer-text {
 font-size: 16px;
