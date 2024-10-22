@@ -552,3 +552,7 @@ max-width: 264px;
      align-items: center;
      justify-content: center;
 }
+.footer-link-icon:hover,
+.footer-link-icon:focus {
+     background-color: #31d0aa;
+}
