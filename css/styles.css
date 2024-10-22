@@ -452,6 +452,7 @@ display: flex;
 
 .footer-box {
      display: flex;
+     align-items: baseline;
 }
 
 .footer-logo{
