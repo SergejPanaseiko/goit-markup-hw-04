@@ -469,7 +469,10 @@ display: flex;
 align-items: baseline;
 
 }
-
+.container{
+     display: flex;
+     align-items: baseline;
+}
 .footer-box {
      display: flex;
      align-items: baseline;
