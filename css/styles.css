@@ -410,6 +410,12 @@ padding-bottom: 120px;
 .portfolio-item{
 transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.portfolio-cover-text{
+     position: absolute;
+     background-color: #fd9222;
+     color: #fff;
+}
+
 .portfolio-item:hover .portfolio-cover-text {
      transform: translateY(0%);
 }
@@ -437,7 +443,6 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
      margin-bottom: 0;
 }
 .portfolio-item:hover{
-     transform: translateY(0%);
      box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
           0px 1px 1px rgba(46, 47, 66, 0.16),
           0px 2px 1px rgba(46, 47, 66, 0.08);
