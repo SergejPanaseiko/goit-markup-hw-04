@@ -479,11 +479,12 @@ align-items: baseline;
 }
 
 .footer-logo{
-     width: 264px;
+     /* width: 264px;
      display: flex;
      align-items: flex-start;
-     flex-direction: column;    
+     flex-direction: column;     */
      margin-right: 120px;
+    
 }
 .footer-soc {
      display: flex;
