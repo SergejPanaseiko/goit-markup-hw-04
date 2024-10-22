@@ -473,7 +473,6 @@ align-items: baseline;
 .footer-box {
      display: flex;
      align-items: baseline;
-     /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 
 .footer-logo{
@@ -482,7 +481,7 @@ align-items: baseline;
      align-items: flex-start;
      flex-direction: column;     */
      margin-right: 120px;
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+/* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 .footer-soc {
      display: flex;
